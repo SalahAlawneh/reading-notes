@@ -19,4 +19,3 @@ in this lesson i learned:
 2. the markdown is a way to communicate with another programmer in easy and clear way
 3. the mardown use sybols instead of tags on html
 4. the github could be used a place to make a web pages, and we can share with another people
-*dragonfly*

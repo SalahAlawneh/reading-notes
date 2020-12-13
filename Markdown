@@ -1,3 +1,0 @@
-# Markdown
-1.***the markdown is an easy way to communicate rather, it has an simply syntax which depend on symbols***	
-2.***the GitHub is an amazing website to save your code in. and it’s using markdown to communicate with another programmer***

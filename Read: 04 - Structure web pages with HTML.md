@@ -11,29 +11,20 @@
 1. whats nav?
 1. <p>: paragraph
 1. general form of how html look like:
-  
-<html>
-    <head>
-<title></title>
-<meta>
-    </head>
-<body>
- 
-
-  <h1></h1>
-  
+1. unordered list  
 
   <ul>
-      <li><a href="https://www.youtube.com/watch?v=E8a9RGU_Ea0"> takedown techniqes</a></li>
-      <li> <a href="https://www.youtube.com/watch?v=TFMWgifW1Wo"> punch defence</a></li>
+      <li></li>
+      <li></li>
   </ul>
 
 
+1. ordered list  
+
+
 <ol>
-  <li><a href="https://www.youtube.com/watch?v=GshEzcqlUbY"> armbar</a></li>
-  <li> <a href="https://www.youtube.com/watch?v=DZ-fmNcJFg4"> choke</a></li>
-  <li> <a href="https://www.youtube.com/watch?v=frMCu85_s7E"> leglock</a></li>
+  <li></li>
+  <li></li>
+  <li></li>
 </ol>
 
-</body>
-    </html>

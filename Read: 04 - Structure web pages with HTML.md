@@ -10,5 +10,5 @@
   5. article
 1. whats nav?
 1. <p>: paragraph
-1. general form of how html look like:
+1. general form of how html look like.
 

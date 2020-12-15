@@ -11,20 +11,4 @@
 1. whats nav?
 1. <p>: paragraph
 1. general form of how html look like:
-1. unordered list  
-
-  <ul>
-      <li></li>
-      <li></li>
-  </ul>
-
-
-1. ordered list  
-
-
-<ol>
-  <li></li>
-  <li></li>
-  <li></li>
-</ol>
 

@@ -1,4 +1,4 @@
-#lessons i learned from the videos:
+# lessons i learned from the videos:
 - the computer work in binory system wich is 1 and 0
 - every thing the user could imagine is just these two numbers:
 1. colors

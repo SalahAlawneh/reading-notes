@@ -17,4 +17,3 @@ Read: 12 | Docs for the HTML <canvas> Element & Chart.js
 Read: 13 | Local Storage
 Read: 14a | CSS Transforms, Transitions, and Animations
 Read: 14b | What Google Learned About Teams
-Content from cell 1 | Content from cell 2

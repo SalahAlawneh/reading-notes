@@ -2,7 +2,7 @@
 
 nubmber of reading | the content
 ------------ | -------------
-Read: 01 |  Introductory HTML and JavaScript
+Read: 01 |  [Introductory HTML and JavaScript](https://salahalawneh.github.io/reading-notes/class-01)
 Read: 02 |  HTML Text, CSS Introduction, and Basic JavaScript Instructions
 Read: 03 | HTML Lists, CSS Boxes, JS Control Flow
 Read: 04 | HTML Links, CSS Layout, JS Functions

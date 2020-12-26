@@ -1,4 +1,4 @@
-# html structure questions:
+# class one questions:
 1. why html uses tags?
 1. how could you use tags in html with example?
 1. whats the attributes?

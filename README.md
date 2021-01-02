@@ -9,7 +9,7 @@ Read: 02 |  [HTML Text, CSS Introduction, and Basic JavaScript Instructions](cla
 Read: 03 | [HTML Lists, CSS Boxes, JS Control Flow](class-03.md)
 Read: 04 | [HTML Links, CSS Layout, JS Functions](class-04.md)
 Read: 05 | [HTML Images; CSS Color & Text](class-05.md)
-Read: 06 | JS Object Literals; The DOM
+Read: 06 | [JS Object Literals; The DOM]([class-06.md)
 Read: 07 | HTML Tables; JS Constructor Functions
 Read: 08 | More CSS Layout
 Read: 09 | Forms and Events

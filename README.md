@@ -13,8 +13,8 @@ Read: 06 | [JS Object Literals; The DOM]([class-06.md)
 Read: 07 | [HTML Tables; JS Constructor Functions](class-07.md)
 Read: 08 | [More CSS Layout](class-08.md)
 Read: 09 | [Forms and Events](class-09.md)
-Read: 10 | JS Debugging
-Read: 11 | Assorted Topics
+Read: 10 | [JS Debugging](class-10.md)
+Read: 11 | [Assorted Topics](class-11.md)
 Read: 12 | Docs for the HTML Element & Chart.js
 Read: 13 | Local Storage
 Read: 14a | CSS Transforms, Transitions, and Animations

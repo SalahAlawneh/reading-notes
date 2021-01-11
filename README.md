@@ -15,7 +15,7 @@ Read: 08 | [More CSS Layout](class-08.md)
 Read: 09 | [Forms and Events](class-09.md)
 Read: 10 | [JS Debugging](class-10.md)
 Read: 11 | [Assorted Topics](class-11.md)
-Read: 12 | Docs for the HTML Element & Chart.js
-Read: 13 | Local Storage
+Read: 12 | [Docs for the HTML Element & Chart.js](class-12.md)
+Read: 13 | [Local Storage](class-13.md)
 Read: 14a | CSS Transforms, Transitions, and Animations
 Read: 14b | What Google Learned About Teams

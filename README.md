@@ -4,7 +4,7 @@
 
 nubmber of reading | the content
 ------------ | -------------
-Read: 01 |  [SMACSS and Responsive Web Design]()
+Read: 01 |  [SMACSS and Responsive Web Design](class-01.md)
 Read: 02 |  []()
 Read: 03 | []()
 Read: 04 | []()

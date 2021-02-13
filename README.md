@@ -1,6 +1,7 @@
 # Reading Notes
 *This web is to make a notes for every mudule before we take the lectures and the labs for the subject*
 ## Code 301 - Intermediate Software Development
+*live URL: https://salahalawneh.github.io/reading-notes/*
 
 nubmber of reading | the content
 ------------ | -------------

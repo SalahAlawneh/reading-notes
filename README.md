@@ -8,7 +8,7 @@ nubmber of reading | the content
 Read: 01 |  [SMACSS and Responsive Web Design](class-01.md)
 Read: 02 |  [PAIR PROGRAMMING](class-02.md)
 Read: 03 | [MUSTACHE and FLEXBOX](class-03.md)
-Read: 04 | []()
+Read: 04 | [CSS GRID](class-04.md)
 Read: 05 | []()
 Read: 06 | []()
 Read: 07 | []()

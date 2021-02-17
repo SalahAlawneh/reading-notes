@@ -1,4 +1,6 @@
-# NODE.JS
+# Heroku Deployment
+10 10 unread replies. 10 10 replies.
+
 - in order to work with heroku, should installing npm, git, node.js version more than 10
 - `heroku ps` => `to check how many dynos are running`
 - `npm install`=> `to make it work locally`

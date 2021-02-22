@@ -1,0 +1,12 @@
+# rest and API's
+- rest make a defintion for any resource
+- http main task is to make the suitable verb for certain noun
+- the is some verbs used like:
+  - get: to read from source
+  - post: to add to the source
+  - put: to replace in the source
+  - patch: to edit in the source
+- API's make the computers talk to each other.
+- not all computer can talk to each other because it didn't envented to do that
+- any source have things readable by humans and readable by computers, and making every thing readable from human will delay the growth in this area
+- the main purpose for all software engineer fuguring out what the data models should look like 

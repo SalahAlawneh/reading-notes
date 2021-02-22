@@ -1,0 +1,17 @@
+# SQL
+- SQL stands for Structured Query Language
+- millions of webpage using SQL data bases
+- relational database are databases depend in taples it's content have relation to each other.
+- knowing SQL synax make you answer question about relational databases.
+- a query is a statement that delares the type of data we looking for, and where to find it.
+- to select columns with SQL `SELECT [nameOfColumn,anotherColumn] FROM [nameOfTable];`
+- SQL syntax don't use sensitive case in writing keywords, but it's better to have in orgainise way to make it readable from another programmer.
+- to choose a condition to your search use `WHERE`
+- with SQL you can:
+  - Inserting rows 
+  - Updating rows 
+  - Deleting rows 
+  - Creating tables 
+  - Altering tables 
+  - Dropping tables 
+- dealing with SQL is staraight forward and you don't have to memorize anything, there is alot of cheatsheets you can use it, it's only knowing what you can do and how to find the way.

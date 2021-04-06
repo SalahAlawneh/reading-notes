@@ -1,0 +1,12 @@
+# Maps, primitives, File I/O
+- there are two types we can use when dealing with variables; primitive and reference values.
+- in general the primitive values take less memory in the and it will be faster to use than reference values.
+- the arrays are strange in this manner, in general the arrays from reference type are more efficient.
+- as a general rule use primitive always unless you have to use reference value.
+- some situations you have to use reference values such as using API, collections and generics.
+- we use exceptions to know if there is any error in my code. `throw` used to throw an exception.
+- you have to provide a throw statement with an exception object.
+- we use `try, catch, and finally` blocks to catch an error in our program.
+- in a `try` statement we have to have at least one `catch` or `finally`.
+- inside the`java.util` package there is a class called `scanner` used to take the user inputs.
+- to use the scanner class you have at first to do a new object from this class, after that you can use it with `nameOfObjectYouDeclared.[provide-scanner-method]`

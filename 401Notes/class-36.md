@@ -1,0 +1,23 @@
+# Amplify and Cognito
+- congnito is an authentication provider used by amplify framework
+- congnito used for:
+   - sign in
+   - sign in wiht web UI
+   - social isgn in with web UI
+   - Guiest access
+   - Auth events
+   - user attributes
+   - remember a device
+   - password management
+   - sign out
+   - Accessing credentials
+   - Escape hatch
+   - Under the hood
+- you can use existing Amazon cognito
+- in getting started part there is some command i have to implement in the CLI and after that i will nofigure the asked question in the comman line interface, after that there is some depencies to add and after that i will test the current auth session==> in general it's an steps i have to follow in the documentation
+- sign in concept always is the same, here we will do the things we did in boot spring, but following another steps that provided in the documentation==> we will register a user, after that sign in a user
+- with cognito we can manipulate the user attributes in a lot of ways like===> fetch the current user attribute, update it, verify it and we can sen a verification code
+- on the hand of tracking device cognito have potentials like tracking the device, remembering the device, not remembered and forgotten a device
+- you can reset the password and change a password
+- in cognito you can sign out from application
+- in gerneral there is not any hard concepts here it's just a steps used to achieve goals by going with the documentation step by step

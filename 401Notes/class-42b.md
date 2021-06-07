@@ -1,31 +1,13 @@
 # Ethics in Tech
-- ACM stands for `Association for Computing Machinery`
-## GENERAL ETHICAL PRINCIPLES
-1. every human being will get benifit from software development and it's technology, and you as programmer have a real responsibility to make the people life better.
-1. as a software deverloper you have the abilty to do things, make sure you will not do any harm for people, society even for the enviroment.
-1. alway be honest that will make your word trust worthy, and give an real weight for your words.
-1. Be fair and take action not to discriminate.
-1. respect that development alway need new ideas, original thinkers and new ways to solve old problems, and solution for unsolved problems.
-1. always respect the privacy
-1. Honor confidentiality
-## PROFESSIONAL RESPONSIBILITIES
-1. Strive to achieve high quality in both the processes and products of professional work.
-1. Maintain high standards of professional competence, conduct, and ethical practice
-1. Know and respect existing rules pertaining to professional work
-1. Accept and provide appropriate professional review
-1. Give comprehensive and thorough evaluations of computer systems and their impacts, including analysis of possible risks
-1. Perform work only in areas of competence
-1. Foster public awareness and understanding of computing, related technologies, and their consequences
-1. Access computing and communication resources only when authorized or when compelled by the public good
-1. Design and implement systems that are robustly and usably secure
-## PROFESSIONAL LEADERSHIP PRINCIPLES
-1. Ensure that the public good is the central concern during all professional computing work
-1. Articulate, encourage acceptance of, and evaluate fulfillment of social responsibilities by members of the organization or group
-1. Manage personnel and resources to enhance the quality of working life
-1. Articulate, apply, and support policies and processes that reflect the principles of the Code
-1. Create opportunities for members of the organization or group to grow as professionals
-1. Use care when modifying or retiring systems
-1. Recognize and take special care of systems that become integrated into the infrastructure of society
-## COMPLIANCE WITH THE CODE
-1. Uphold, promote, and respect the principles of the Code
-1. Treat violations of the Code as inconsistent with membership in the ACM
+- the two articles i used for this read are:
+1. Big Data is our generation’s civil rights issue, and we don’t know it
+1. The code I’m still ashamed of
+## Big Data
+- talking about data there is a huge amount of data, and there is a lot of ways dealing with it, there is an fast one and there is big data and there is a variety of dealing with it.
+- in big data, the data collected in really huge amount without any analyzing at first, after that the analyze will accure.
+- talking about this data and creating a schema from it is huge thing, we talk about data in every aspect and there is a critical part of it wich is the data about people.
+- from the data about some body, you can know his religon his race, and use that for any pupose.
+- you expect the data to use just for selling thing you are intersted in and maybe you will not expect any farther usage.
+- talking about the ethics in this part is huge and there is a lot of disscusion about it, and i recommend this book for any one intersted and what we know about people using big data [Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are](https://www.youtube.com/watch?v=1gBViHUDYD0) and this is an dicussion for some ideas from the book.
+## The code I’m still ashamed of
+- in this story there is a lot of lessons to learn, but for me i think the first idea come to my mind, even if i'm an Employee i have the responsibilty in every action i do and every line of code i write, always i have to make sure i will not do any harm for any body.
